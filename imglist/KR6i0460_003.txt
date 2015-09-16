@@ -1,0 +1,4 @@
+003-0659a00	T 003-0659a	buddhist/T-taisho/T17/06/T17-0659.png
+003-0659b00	T 003-0659b	buddhist/T-taisho/T17/06/T17-0659.png
+003-0659c00	T 003-0659c	buddhist/T-taisho/T17/06/T17-0659.png
+003-0660a00	T 003-0660a	buddhist/T-taisho/T17/06/T17-0660.png
