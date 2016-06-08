@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:09.147343
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:40
 #+TITLE: 佛說法乘義決定經
 #+PROPERTY: CBETA_ID T17n0763
 #+PROPERTY: ID KR6i0460
