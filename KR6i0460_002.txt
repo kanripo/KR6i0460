@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:08.710118
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:40
 #+TITLE: 佛說法乘義決定經
 #+PROPERTY: CBETA_ID T17n0763
 #+PROPERTY: ID KR6i0460
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 763
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0460_T_002-0656c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說法乘義決定經》卷中¶
+《佛說法乘義決定經》卷中¶
 ¶
 西天三藏明因妙善普濟法師¶
 金總持等奉　詔譯¶

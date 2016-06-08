@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:08.734157
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:40
 #+TITLE: 佛說法乘義決定經
 #+PROPERTY: CBETA_ID T17n0763
 #+PROPERTY: ID KR6i0460
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 763
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0460_T_003-0658c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說法乘義決定經》卷下¶
+《佛說法乘義決定經》卷下¶
 ¶
 西天三藏明因妙善普濟法師¶
 金總持等奉　詔譯¶
@@ -29,7 +28,7 @@
 薩行，於戒禁忍及惠捨中善能安住，堅固平¶
 等故，感得足下平滿之相。有情苦惱，方便救¶
 護，孝順父母，嚴飾布施，未甞退轉故，感得足¶
-下千輻輪文相。給侍尊長，塗身按摩，沐浴衣¶
+下千幅輪文相。給侍尊長，塗身按摩，沐浴衣¶
 服，莊嚴之具，未甞退轉故，由是感得手足柔¶
 軟相。以四攝法，饒益有情，平等護念，無有差¶
 別，由是感得手足指間金色網輓相。於諸尊¶
